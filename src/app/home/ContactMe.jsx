@@ -111,7 +111,7 @@ const ContactMe = () => {
   return (
     <div
       ref={containerRef}
-      className="relative z-10 w-full py-16 px-4 md:px-10  shadow-2xl transition-all duration-300"
+      className="relative z-10 w-full py-16 px-4 md:px-10  transition-all duration-300"
     >
       <div className="text-center relative mb-6">
         <h2
