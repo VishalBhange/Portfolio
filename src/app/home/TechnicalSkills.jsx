@@ -73,16 +73,16 @@ const RotatingCube = () => {
         <div className="scene sm:ml-20 "data-aos="fade-right">
           <div className="cube">
             <div className="face front">
-              <Image width={350} height={250} src="/html.png" alt="HTML" />
+              <Image width={350} height={250} src="/assets/html.png" alt="HTML" />
             </div>
             <div className="face right">
-              <Image width={350} height={250} src="/css.png" alt="CSS" />
+              <Image width={350} height={250} src="/assets/css.png" alt="CSS" />
             </div>
             <div className="face back">
-              <Image width={350} height={250} src="/js.png" alt="JS" />
+              <Image width={350} height={250} src="/assets/js.png" alt="JS" />
             </div>
             <div className="face left">
-              <Image width={350} height={250} src="/tailwindcss.png" alt="Tailwind" />
+              <Image width={350} height={250} src="/assets/tailwindcss.png" alt="Tailwind" />
             </div>
           </div>
         </div>
@@ -91,16 +91,16 @@ const RotatingCube = () => {
         <div className="scene sm:ml-20 "data-aos="fade-up">
           <div className="cube">
             <div className="face front">
-              <Image width={350} height={250} src="/react js.png" alt="React" />
+              <Image width={350} height={250} src="/assets/react js.png" alt="React" />
             </div>
             <div className="face right">
-              <Image width={350} height={250} src="/nextjs.png" alt="Next.js" />
+              <Image width={350} height={250} src="/assets/nextjs.png" alt="Next.js" />
             </div>
             <div className="face back">
-              <Image width={350} height={250} src="/nodejs.png" alt="Node.js" />
+              <Image width={350} height={250} src="/assets/nodejs.png" alt="Node.js" />
             </div>
             <div className="face left">
-              <Image width={350} height={250} src="/Mongodb.png" alt="MongoDB" />
+              <Image width={350} height={250} src="/assets/Mongodb.png" alt="MongoDB" />
             </div>
           </div>
         </div>
@@ -109,16 +109,16 @@ const RotatingCube = () => {
         <div className="scene sm:ml-20"data-aos="fade-left">
           <div className="cube">
             <div className="face front">
-              <Image width={350} height={250} src="/github.png" alt="GitHub" />
+              <Image width={350} height={250} src="/assets/github.png" alt="GitHub" />
             </div>
             <div className="face right">
-              <Image width={350} height={250} src="/express.png" alt="Express.js" />
+              <Image width={350} height={250} src="/assets/express.png" alt="Express.js" />
             </div>
             <div className="face back">
-              <Image width={350} height={250} src="/json.png" alt="Json" />
+              <Image width={350} height={250} src="/assets/json.png" alt="Json" />
             </div>
             <div className="face left">
-              <Image width={350} height={250} src="/xampp1.png" alt="Xampp" />
+              <Image width={350} height={250} src="/assets/xampp1.png" alt="Xampp" />
             </div>
           </div>
         </div>

@@ -95,7 +95,7 @@ const ContactMe = () => {
       title: 'Resume',
       desc: [
         <a
-          href="/Vishal Bhange (CV).pdf"  // make sure the filename matches exactly
+          href="/assets/vishal(cv).pdf"  // make sure the filename matches exactly
           download
           target="_blank"
           rel="noopener noreferrer"

@@ -81,7 +81,7 @@
               }`}
             >
               <Image
-                src="/Vishalimg.jpg"
+                src="/assets/Vishalimg.jpg"
                 alt="Vishal Bhange"
                 width={112}
                 height={112}

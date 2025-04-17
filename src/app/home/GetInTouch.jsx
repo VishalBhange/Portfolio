@@ -78,7 +78,7 @@ const PortfolioSection = () => {
             ease: "linear",
           }}
         >
-          <Image src="/animateCicle.png" width={420} height={180} alt="Circular Animation" className="-ml-32" />
+          <Image src="/assets/animateCicle.png" width={420} height={180} alt="Circular Animation" className="-ml-32" />
         </motion.div>
       </div>
 
@@ -96,7 +96,7 @@ const PortfolioSection = () => {
           <h3 className="text-3xl font-bold text-start mb-6 text-gray-800 tracking-wider">
             Get Your Quote <span className="text-purple-600">Today!</span>
           </h3>
-          <form onSubmit={handleSubmit} className="flex flex-col gap-6">
+          <form onSubmit={handleSubmit} className="flex flex-col gap-6" >
             <input
               type="text"
               name="fullname"

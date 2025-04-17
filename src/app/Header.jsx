@@ -98,7 +98,7 @@ export default function Navbar() {
         />
 
         {/* CV Download Button */}
-        <Link href="/Vishal Bhange (CV).pdf" download
+        <Link href="/assets/vishal(cv).pdf" download
           target="_blank"
           rel="noopener noreferrer"> 
           <button className="bg-gradient-to-r from-yellow-300 to-purple-600 text-white px-4 py-1 rounded-lg shadow-md hover:shadow-purple-500/70 text-sm font-semibold transition duration-300 transform hover:scale-110 hover:rotate-1 animate-glow">
