@@ -213,7 +213,7 @@
 
             <p className="text-md leading-relaxed mt-4" data-aos="fade-up">
               During my internship, I’ve contributed to real-world projects like{" "}
-              <strong>SSG Global, Alta Futuris, Measure, and Vikas Nursery</strong>. These
+              <strong>SSG Global, Alta Futuris, Measure Interior, Youtax, and Vikas Nursery</strong>. These
               experiences have given me practical exposure and taught me teamwork,
               deadlines, and scalable coding.
             </p>
