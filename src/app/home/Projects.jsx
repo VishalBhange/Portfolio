@@ -36,12 +36,12 @@ const projects = [
     image: "/assets/vikas.jpg",
   },
   {
-    name: "Online Coffee Shop",
-    desc: "Modern UI for coffee store with product filters & cards. Made in React.",
-    link: "#",
-    image: "/assets/coffee.png",
-  },
-  {
+    name: "Hairnic",
+    desc: "A hair care and hair-related product site built using React. Clean UI with product cards and categories.",
+    link: "https://vishal-hainic.netlify.app/",
+    image: "/assets/Hairnic.avif",
+  },  
+   {
     name: "Tic Tac Toe",
     desc: "Classic 2-player Tic Tac Toe using JavaScript state and winning logic.",
     link: "https://vishal-tictactoe-game.netlify.app/",
@@ -64,6 +64,12 @@ const projects = [
     desc: "Agency template site built using HTML, CSS, Bootstrap. Fully responsive.",
     link: "https://vishal-ninestar.netlify.app/",
     image: "/assets/ninestar.jpg",
+  },
+  {
+    name: "Online Coffee Shop",
+    desc: "Modern UI for coffee store with product filters & cards. Made in React.",
+    link: "#",
+    image: "/assets/coffee.png",
   },
 ];
 
